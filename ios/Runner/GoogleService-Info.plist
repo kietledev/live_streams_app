@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>192438986062-7fkphpsedgsnr9g6dsl9gr4g94en6mbb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.192438986062-7fkphpsedgsnr9g6dsl9gr4g94en6mbb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDFo_leJCgI42_uKQKR746YJKIrGtIaXWM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>192438986062</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.kietledev.livestreamsapp</string>
+	<key>PROJECT_ID</key>
+	<string>livestreamapp-5bce0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>livestreamapp-5bce0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:192438986062:ios:d0533bae5969f4aa346a1f</string>
+</dict>
+</plist>

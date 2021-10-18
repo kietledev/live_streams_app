@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "192438986062",
+    "project_id": "livestreamapp-5bce0",
+    "storage_bucket": "livestreamapp-5bce0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192438986062:android:13c4d50a5c976db0346a1f",
+        "android_client_info": {
+          "package_name": "com.kietledev.livestreamsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192438986062-n9914hi23dq5v5mdgnbentimf2iqmtic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDue5NVNvqFqnKX2bm_5Hr5YFPNNdzSuok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192438986062-n9914hi23dq5v5mdgnbentimf2iqmtic.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "192438986062-4emb6dmib5hc46msk3mpvp8kdu2ktv17.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kietledev.livestreamapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
